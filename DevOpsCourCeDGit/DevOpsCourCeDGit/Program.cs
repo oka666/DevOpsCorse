@@ -51,15 +51,12 @@ namespace DevOpsCourCeDGit
                           Marks= new List<int>() {75, 84, 91, 39}},
              new Student {First="Bob", Last=".P", ID=3,
                           Marks= new List<int>() {88, 94, 65, 91}},
-             new Student {First="Mark", Last=".G", ID=4,
-                          Marks= new List<int>() {97, 89, 85, 82}},
         };
         List<ContactInfo> contactList = new List<ContactInfo>()
         {
             new ContactInfo {ID=111, Email="Tom123@abc.com", Phone="9328298765"},
             new ContactInfo {ID=112, Email="Jerry123@aaa.com", Phone="9876543201"},
             new ContactInfo {ID=113, Email="Bobstar@aaa.com", Phone="9087467653"},
-            new ContactInfo {ID=114, Email="Markantony@qqq.com", Phone="9870098761"}
         };
 
 
