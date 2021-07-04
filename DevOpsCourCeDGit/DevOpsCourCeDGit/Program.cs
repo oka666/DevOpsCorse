@@ -45,7 +45,7 @@ namespace DevOpsCourCeDGit
         }
         List<Student> students = new List<Student>()
         {
-             new Student {First="Tom", Last=".S", ID=1,
+             new Student {First="Tom123", Last=".S", ID=1,
                           Marks= new List<int>() {97, 92, 81, 60}},
              new Student {First="Jerry", Last=".M", ID=2,
                           Marks= new List<int>() {75, 84, 91, 39}},
@@ -56,7 +56,7 @@ namespace DevOpsCourCeDGit
         };
         List<ContactInfo> contactList = new List<ContactInfo>()
         {
-            new ContactInfo {ID=111, Email="Tom@abc.com", Phone="9328298765"},
+            new ContactInfo {ID=111, Email="Tom123@abc.com", Phone="9328298765"},
             new ContactInfo {ID=112, Email="Jerry123@aaa.com", Phone="9876543201"},
             new ContactInfo {ID=113, Email="Bobstar@aaa.com", Phone="9087467653"},
             new ContactInfo {ID=114, Email="Markantony@qqq.com", Phone="9870098761"}
